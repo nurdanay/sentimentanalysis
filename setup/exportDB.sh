@@ -1,0 +1,1 @@
+mysqldump  --protocol=TCP -uroot -pnurdan --routines --no-autocommit sentimentanalysis > ../../sentiment_analysis_data/sentimentanalysis.sql

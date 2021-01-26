@@ -1,0 +1,1 @@
+python3 -m pwiz -H 192.168.0.3 -u root -P -e mysql sentimentanalysis > ../db.py
